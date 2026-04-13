@@ -4,7 +4,7 @@ This is your learning repo for the 5-day course. By Day 5 it becomes your portfo
 
 ---
 
-## Before Day 1 — confirm all 4 to Priya on WhatsApp
+## Before Day 1 — confirm all 4 to Priya on Telegram
 
 - [ ] SELECT TOP 5 FirstName, LastName FROM SalesLT.Customer → I see 5 names
 - [ ] SELECT TOP 5 * FROM dbo.FactSales → I see results
